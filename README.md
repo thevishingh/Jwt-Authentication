@@ -21,7 +21,7 @@ Node.js · Express.js · MongoDB · Mongoose · JWT · Bcrypt · dotenv · Nodem
 
 ## Author
 
-Developed with ❤️ by **Vishal Singh**  
+Developed with ❤️ by Vishal Singh..!!🤖
 GitHub: [@thevishingh](https://github.com/thevishingh)
 ```
 
